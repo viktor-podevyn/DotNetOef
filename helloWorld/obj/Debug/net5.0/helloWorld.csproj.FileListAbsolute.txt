@@ -1,0 +1,15 @@
+/Users/viktorpodevyn/Sites/becode/helloWorld/bin/Debug/net5.0/helloWorld.deps.json
+/Users/viktorpodevyn/Sites/becode/helloWorld/bin/Debug/net5.0/helloWorld.runtimeconfig.json
+/Users/viktorpodevyn/Sites/becode/helloWorld/bin/Debug/net5.0/helloWorld.runtimeconfig.dev.json
+/Users/viktorpodevyn/Sites/becode/helloWorld/bin/Debug/net5.0/helloWorld.dll
+/Users/viktorpodevyn/Sites/becode/helloWorld/bin/Debug/net5.0/ref/helloWorld.dll
+/Users/viktorpodevyn/Sites/becode/helloWorld/bin/Debug/net5.0/helloWorld.pdb
+/Users/viktorpodevyn/Sites/becode/helloWorld/obj/Debug/net5.0/helloWorld.csprojAssemblyReference.cache
+/Users/viktorpodevyn/Sites/becode/helloWorld/obj/Debug/net5.0/helloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/viktorpodevyn/Sites/becode/helloWorld/obj/Debug/net5.0/helloWorld.AssemblyInfoInputs.cache
+/Users/viktorpodevyn/Sites/becode/helloWorld/obj/Debug/net5.0/helloWorld.AssemblyInfo.cs
+/Users/viktorpodevyn/Sites/becode/helloWorld/obj/Debug/net5.0/helloWorld.csproj.CoreCompileInputs.cache
+/Users/viktorpodevyn/Sites/becode/helloWorld/obj/Debug/net5.0/helloWorld.dll
+/Users/viktorpodevyn/Sites/becode/helloWorld/obj/Debug/net5.0/ref/helloWorld.dll
+/Users/viktorpodevyn/Sites/becode/helloWorld/obj/Debug/net5.0/helloWorld.pdb
+/Users/viktorpodevyn/Sites/becode/helloWorld/obj/Debug/net5.0/helloWorld.genruntimeconfig.cache
