@@ -1,0 +1,15 @@
+/Users/viktorpodevyn/Sites/becode/DotNetOef/moneyPrinter/bin/Debug/net5.0/moneyPrinter.deps.json
+/Users/viktorpodevyn/Sites/becode/DotNetOef/moneyPrinter/bin/Debug/net5.0/moneyPrinter.runtimeconfig.json
+/Users/viktorpodevyn/Sites/becode/DotNetOef/moneyPrinter/bin/Debug/net5.0/moneyPrinter.runtimeconfig.dev.json
+/Users/viktorpodevyn/Sites/becode/DotNetOef/moneyPrinter/bin/Debug/net5.0/moneyPrinter.dll
+/Users/viktorpodevyn/Sites/becode/DotNetOef/moneyPrinter/bin/Debug/net5.0/ref/moneyPrinter.dll
+/Users/viktorpodevyn/Sites/becode/DotNetOef/moneyPrinter/bin/Debug/net5.0/moneyPrinter.pdb
+/Users/viktorpodevyn/Sites/becode/DotNetOef/moneyPrinter/obj/Debug/net5.0/moneyPrinter.csprojAssemblyReference.cache
+/Users/viktorpodevyn/Sites/becode/DotNetOef/moneyPrinter/obj/Debug/net5.0/moneyPrinter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/viktorpodevyn/Sites/becode/DotNetOef/moneyPrinter/obj/Debug/net5.0/moneyPrinter.AssemblyInfoInputs.cache
+/Users/viktorpodevyn/Sites/becode/DotNetOef/moneyPrinter/obj/Debug/net5.0/moneyPrinter.AssemblyInfo.cs
+/Users/viktorpodevyn/Sites/becode/DotNetOef/moneyPrinter/obj/Debug/net5.0/moneyPrinter.csproj.CoreCompileInputs.cache
+/Users/viktorpodevyn/Sites/becode/DotNetOef/moneyPrinter/obj/Debug/net5.0/moneyPrinter.dll
+/Users/viktorpodevyn/Sites/becode/DotNetOef/moneyPrinter/obj/Debug/net5.0/ref/moneyPrinter.dll
+/Users/viktorpodevyn/Sites/becode/DotNetOef/moneyPrinter/obj/Debug/net5.0/moneyPrinter.pdb
+/Users/viktorpodevyn/Sites/becode/DotNetOef/moneyPrinter/obj/Debug/net5.0/moneyPrinter.genruntimeconfig.cache
